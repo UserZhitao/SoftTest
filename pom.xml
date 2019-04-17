@@ -7,9 +7,9 @@
     <groupId>com.test</groupId>
     <artifactId>SoftTest3</artifactId>
     <version>1.0-SNAPSHOT</version>
- 
     <properties>
-        <aspectj.version>1.8.10</aspectj.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <xmlFileName></xmlFileName>
     </properties>
     <dependencies>
         <dependency>
@@ -24,9 +24,35 @@
             <version>1.1.4</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.google.inject</groupId>
+            <artifactId>guice</artifactId>
+            <version>3.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.neo4j</groupId>
+            <artifactId>neo4j</artifactId>
+            <version>3.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.neo4j</groupId>
+            <artifactId>neo4j-kernel</artifactId>
+            <version>3.0.0</version>
+            <scope>test</scope>
+            <type>test-jar</type>
+        </dependency>
+
+        <dependency>
+            <groupId>org.neo4j</groupId>
+            <artifactId>neo4j-io</artifactId>
+            <version>3.0.0</version>
+            <scope>test</scope>
+            <type>test-jar</type>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
+
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
@@ -35,12 +61,9 @@
                     <suiteXmlFiles>
                         <suiteFile>${xmlFileName}</suiteFile>
                     </suiteXmlFiles>
-                          <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <xmlFileName></xmlFileName>
-</properties>
                 </configuration>
             </plugin>
+
         </plugins>
     </build>
 </project>
