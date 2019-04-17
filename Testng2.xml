@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <suite name="Default Suite">
-    <test name="Java_Test">
+    <test name="Java_Test2">
         <classes>
-          <class name="MainTest"/>
+            <class name="PackageTest"/>
         </classes>
     </test> <!-- Java_Learn -->
     <listeners>

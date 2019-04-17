@@ -1,20 +1,17 @@
-import org.jvnet.substance.SubstanceLookAndFeel;
+/*import org.jvnet.substance.SubstanceLookAndFeel;
 import org.jvnet.substance.border.StandardBorderPainter;
 import org.jvnet.substance.button.ClassicButtonShaper;
 import org.jvnet.substance.painter.StandardGradientPainter;
 import org.jvnet.substance.skin.SubstanceAutumnLookAndFeel;
 import org.jvnet.substance.theme.SubstanceTerracottaTheme;
 import org.jvnet.substance.title.FlatTitlePainter;
-import org.jvnet.substance.watermark.SubstanceBubblesWatermark;
-
+import org.jvnet.substance.watermark.SubstanceBubblesWatermark;*/
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Vector;
 
 import javax.swing.*;
-import javax.swing.event.HyperlinkEvent;
-import javax.swing.event.HyperlinkListener;
 
 public class Demo extends JFrame {
     JTextArea jta = new JTextArea();
@@ -213,7 +210,7 @@ public class Demo extends JFrame {
     public static void main(String[] args) {
 
         try {
-            UIManager.setLookAndFeel(new SubstanceAutumnLookAndFeel());
+           /* UIManager.setLookAndFeel(new SubstanceAutumnLookAndFeel());
             JFrame.setDefaultLookAndFeelDecorated(true);
             JDialog.setDefaultLookAndFeelDecorated(true);
             SubstanceLookAndFeel.setCurrentTheme(new SubstanceTerracottaTheme());
@@ -221,7 +218,7 @@ public class Demo extends JFrame {
             SubstanceLookAndFeel.setCurrentWatermark(new SubstanceBubblesWatermark());
             SubstanceLookAndFeel.setCurrentBorderPainter(new StandardBorderPainter());
             SubstanceLookAndFeel.setCurrentGradientPainter(new StandardGradientPainter());
-            SubstanceLookAndFeel.setCurrentTitlePainter(new FlatTitlePainter());
+            SubstanceLookAndFeel.setCurrentTitlePainter(new FlatTitlePainter());*/
             Demo de=new Demo();
         } catch (Exception e) {
             System.err.println("Something went wrong!");

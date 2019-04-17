@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6f01890-2fe2-4fbb-a3e5-8ae48ef6e25f" name="Default Changelist" comment="" />
+    <list default="true" id="e6f01890-2fe2-4fbb-a3e5-8ae48ef6e25f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Testng2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PackageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/lib/JTattoo.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/lib/substance.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,45 +26,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1546#1697#0" expanded="true" />
-                <element signature="e#1696#1697#0" expanded="true" />
-                <element signature="e#2965#3680#0" expanded="true" />
-                <element signature="e#3679#3680#0" expanded="true" />
-                <element signature="e#5100#5989#0" expanded="true" />
-                <element signature="e#5988#5989#0" expanded="true" />
-                <element signature="e#6061#6223#0" expanded="true" />
-                <element signature="e#6222#6223#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/MainTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#241#250#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="800">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -57,37 +39,52 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="275">
+              <caret line="11" column="31" selection-start-line="1" selection-end-line="11" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Package.java">
+        <entry file="file://$PROJECT_DIR$/Testng2.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="50">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Calculation.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="862">
-              <caret line="1131" column="8" selection-start-line="1131" selection-start-column="8" selection-end-line="1131" selection-end-column="8" />
+            <state relative-caret-position="475">
+              <caret line="70" column="37" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="70" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#759#7214#1" />
-                <element signature="e#7268#12386#1" />
-                <element signature="e#12447#17103#1" />
-                <element signature="e#17167#23395#1" />
-                <element signature="e#23446#28478#1" />
-                <element signature="e#28540#33575#1" />
-                <element signature="e#33637#40250#1" />
-                <element signature="e#33737#34207#1" />
-                <element signature="e#40305#45617#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PackageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="811">
+              <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CalTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1750">
+              <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,20 +95,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="XML Properties File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Package.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Calculation.java" />
         <option value="$PROJECT_DIR$/src/main/java/Demo.java" />
-        <option value="$PROJECT_DIR$/src/test/java/MainTest.java" />
         <option value="$PROJECT_DIR$/Testng.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Calculation.java" />
+        <option value="$PROJECT_DIR$/Testng2.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PackageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CalTest.java" />
       </list>
     </option>
   </component>
@@ -122,11 +125,35 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SoftTest3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SoftTest3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SoftTest3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1033" />
-    <option name="y" value="90" />
+    <option name="x" value="411" />
+    <option name="y" value="152" />
     <option name="width" value="978" />
-    <option name="height" value="1049" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -134,14 +161,60 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SoftTest3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftTest3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftTest3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftTest3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftTest3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftTest3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftTest3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftTest3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftTest3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftTest3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftTest3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftTest3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftTest3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555411897179" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555471721926" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../soft-test1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -160,10 +233,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.D:/IDEAWork/SoftTest3/Testng.xml">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
+  <component name="RunManager" selected="TestNG.D:/IDEAWork/SoftTest3/Testng3.xml">
+    <configuration name="CalTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SoftTest3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/IDEAWork/SoftTest3/Testng2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SoftTest3" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Testng2.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/IDEAWork/SoftTest3/Testng3.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SoftTest3" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Testng3.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,11 +274,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.CalculationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PackageTest.packagetoTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SoftTest3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainTest" />
-      <option name="METHOD_NAME" value="CalculationTest" />
+      <option name="MAIN_CLASS_NAME" value="PackageTest" />
+      <option name="METHOD_NAME" value="packagetoTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -192,9 +288,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/IDEAWork/SoftTest3/Testng3.xml" />
+        <item itemvalue="TestNG.D:/IDEAWork/SoftTest3/Testng2.xml" />
+        <item itemvalue="TestNG.CalTest" />
+        <item itemvalue="TestNG.PackageTest.packagetoTest" />
         <item itemvalue="TestNG.D:/IDEAWork/SoftTest3/Testng.xml" />
-        <item itemvalue="TestNG.MainTest.CalculationTest" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -209,136 +307,176 @@
       <option name="presentableId" value="Default" />
       <updated>1555405676773</updated>
       <workItem from="1555405717694" duration="4238000" />
+      <workItem from="1555414471971" duration="758000" />
+      <workItem from="1555415461150" duration="1977000" />
+      <workItem from="1555468081328" duration="2771000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MainTest_CalculationTest - 2019.04.16 at 18h 05m 36s.xml">
-      <configuration name="MainTest.CalculationTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__IDEAWork_SoftTest3_Testng_xml - 2019.04.16 at 18h 42m 03s.xml">
-      <configuration name="D:/IDEAWork/SoftTest3/Testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__IDEAWork_SoftTest3_Testng_xml - 2019.04.16 at 18h 46m 32s.xml">
-      <configuration name="D:/IDEAWork/SoftTest3/Testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__IDEAWork_SoftTest3_Testng_xml - 2019.04.16 at 18h 49m 05s.xml">
-      <configuration name="D:/IDEAWork/SoftTest3/Testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MainTest_CalculationTest - 2019.04.16 at 18h 49m 16s.xml">
-      <configuration name="MainTest.CalculationTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="D__IDEAWork_SoftTest3_Testng_xml - 2019.04.16 at 18h 49m 34s.xml">
       <configuration name="D:/IDEAWork/SoftTest3/Testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="D__IDEAWork_SoftTest3_Testng_xml - 2019.04.16 at 19h 37m 35s.xml">
+      <configuration name="D:/IDEAWork/SoftTest3/Testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__IDEAWork_SoftTest3_Testng_xml - 2019.04.17 at 11h 13m 02s.xml">
+      <configuration name="D:/IDEAWork/SoftTest3/Testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__IDEAWork_SoftTest3_Testng_xml - 2019.04.17 at 11h 14m 34s.xml">
+      <configuration name="D:/IDEAWork/SoftTest3/Testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__IDEAWork_SoftTest3_Testng2_xml - 2019.04.17 at 11h 18m 40s.xml">
+      <configuration name="D:/IDEAWork/SoftTest3/Testng2.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PackageTest_packagetoTest - 2019.04.17 at 11h 23m 15s.xml">
+      <configuration name="PackageTest.packagetoTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PackageTest_packagetoTest - 2019.04.17 at 11h 23m 33s.xml">
+      <configuration name="PackageTest.packagetoTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PackageTest_packagetoTest - 2019.04.17 at 11h 24m 03s.xml">
+      <configuration name="PackageTest.packagetoTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PackageTest_packagetoTest - 2019.04.17 at 11h 24m 25s.xml">
+      <configuration name="PackageTest.packagetoTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__IDEAWork_SoftTest3_Testng2_xml - 2019.04.17 at 11h 24m 42s.xml">
+      <configuration name="D:/IDEAWork/SoftTest3/Testng2.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4238000" />
+    <option name="totallyTimeSpent" value="9744000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="846" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="846" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13404825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17158177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32867134" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32867134" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32867134" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3277311" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32913166" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.3277311" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932975" weight="0.3277311" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Package.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="100">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#8158#0" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SoftTest3.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Calculation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="862">
+        <state relative-caret-position="28250">
           <caret line="1131" column="8" selection-start-line="1131" selection-start-column="8" selection-end-line="1131" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#759#7214#1" />
-            <element signature="e#7268#12386#1" />
-            <element signature="e#12447#17103#1" />
-            <element signature="e#17167#23395#1" />
-            <element signature="e#23446#28478#1" />
-            <element signature="e#28540#33575#1" />
-            <element signature="e#33637#40250#1" />
-            <element signature="e#33737#34207#1" />
-            <element signature="e#40305#45617#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#241#250#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1546#1697#0" expanded="true" />
-            <element signature="e#1696#1697#0" expanded="true" />
-            <element signature="e#2965#3680#0" expanded="true" />
-            <element signature="e#3679#3680#0" expanded="true" />
-            <element signature="e#5100#5989#0" expanded="true" />
-            <element signature="e#5988#5989#0" expanded="true" />
-            <element signature="e#6061#6223#0" expanded="true" />
-            <element signature="e#6222#6223#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="800">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testng2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Package.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="31" selection-start-line="1" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/html/overview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PackageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="70" column="37" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="70" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1750">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
