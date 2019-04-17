@@ -59,7 +59,7 @@
                 <version>2.20</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteFile>${xmlFileName}</suiteFile>
+                        <suiteXmlFile>${xmlFileName}</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
